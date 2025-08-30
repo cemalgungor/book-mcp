@@ -1,0 +1,119 @@
+{
+  "books": [
+    {
+      "isbn": "9780262035613",
+      "title": "Deep Learning",
+      "authors": [
+        "Ian Goodfellow",
+        "Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "genre": "computer science",
+      "year": 2016,
+      "rating": 4.6,
+      "summary": "Foundational text on deep learning theory and practice."
+    },
+    {
+      "isbn": "9780134685991",
+      "title": "Effective Java (3rd Edition)",
+      "authors": [
+        "Joshua Bloch"
+      ],
+      "genre": "software engineering",
+      "year": 2018,
+      "rating": 4.8,
+      "summary": "Best practices for Java programming covering language and library features."
+    },
+    {
+      "isbn": "9780765376671",
+      "title": "The Way of Kings",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "genre": "fantasy",
+      "year": 2010,
+      "rating": 4.7,
+      "summary": "Epic fantasy novel, first in The Stormlight Archive."
+    },
+    {
+      "isbn": "9780547928227",
+      "title": "The Hobbit",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "genre": "fantasy",
+      "year": 1937,
+      "rating": 4.7,
+      "summary": "Bilbo Baggins embarks on an unexpected journey."
+    },
+    {
+      "isbn": "9780385472579",
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "authors": [
+        "Robert M. Pirsig"
+      ],
+      "genre": "philosophy",
+      "year": 1974,
+      "rating": 4.2,
+      "summary": "A philosophical exploration through a cross-country motorcycle trip."
+    },
+    {
+      "isbn": "9781492078005",
+      "title": "Designing Data-Intensive Applications",
+      "authors": [
+        "Martin Kleppmann"
+      ],
+      "genre": "computer science",
+      "year": 2017,
+      "rating": 4.9,
+      "summary": "Data systems, scalability, and consistency explained clearly."
+    },
+    {
+      "isbn": "9780596007126",
+      "title": "Head First Design Patterns",
+      "authors": [
+        "Eric Freeman",
+        "Elisabeth Robson",
+        "Bert Bates",
+        "Kathy Sierra"
+      ],
+      "genre": "software engineering",
+      "year": 2004,
+      "rating": 4.6,
+      "summary": "Visual, example-driven guide to classic design patterns."
+    },
+    {
+      "isbn": "9780061122415",
+      "title": "The Alchemist",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "genre": "fiction",
+      "year": 1988,
+      "rating": 4.3,
+      "summary": "A shepherd's journey in search of a treasure and destiny."
+    },
+    {
+      "isbn": "9780140449266",
+      "title": "Meditations",
+      "authors": [
+        "Marcus Aurelius"
+      ],
+      "genre": "philosophy",
+      "year": 180,
+      "rating": 4.5,
+      "summary": "Stoic reflections by the Roman emperor."
+    },
+    {
+      "isbn": "9780590353427",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "genre": "fantasy",
+      "year": 1997,
+      "rating": 4.8,
+      "summary": "The first book in the Harry Potter series."
+    }
+  ]
+}
